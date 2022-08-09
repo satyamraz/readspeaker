@@ -10,10 +10,10 @@ const ReadSpeakerReader = () => {
     var ReadSpeaker;
     const [value, setValue] = useState('');
     useEffect(() => {
-        // var oHead = document.getElementsByTagName('HEAD').item(0);
-        // var oScript = document.createElement("script");
-        // oScript.type = "text/javascript";
-        // oScript.src = `//cdn1.readspeaker.com/script/${ID_USER}/webReader/webReader.js`;
+        // const oHead   = document.getElementsByTagName('HEAD').item(0);
+        // const oScript = document.createElement("script");
+        // oScript.type  = "text/javascript";
+        // oScript.src   = `//cdn1.readspeaker.com/script/${ID_USER}/webReader/webReader.js`;
         // oHead.appendChild(oScript);
         console.log("Double-checked that the configuration has been set correctly ", rspkr?.item("general.usePost"));
         if (window?.ReadSpeaker && rspkr) {
