@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/readspeaker/static/css/main.09df23f9.chunk.css",
-    "main.js": "/readspeaker/static/js/main.f13a1b23.chunk.js",
-    "main.js.map": "/readspeaker/static/js/main.f13a1b23.chunk.js.map",
+    "main.css": "/readspeaker/static/css/main.027bd749.chunk.css",
+    "main.js": "/readspeaker/static/js/main.0609dc1a.chunk.js",
+    "main.js.map": "/readspeaker/static/js/main.0609dc1a.chunk.js.map",
     "runtime-main.js": "/readspeaker/static/js/runtime-main.99b5ce48.js",
     "runtime-main.js.map": "/readspeaker/static/js/runtime-main.99b5ce48.js.map",
     "static/css/2.a2032d84.chunk.css": "/readspeaker/static/css/2.a2032d84.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.37bdbdc4.chunk.js.map": "/readspeaker/static/js/3.37bdbdc4.chunk.js.map",
     "index.html": "/readspeaker/index.html",
     "static/css/2.a2032d84.chunk.css.map": "/readspeaker/static/css/2.a2032d84.chunk.css.map",
-    "static/css/main.09df23f9.chunk.css.map": "/readspeaker/static/css/main.09df23f9.chunk.css.map",
+    "static/css/main.027bd749.chunk.css.map": "/readspeaker/static/css/main.027bd749.chunk.css.map",
     "static/js/2.56431253.chunk.js.LICENSE.txt": "/readspeaker/static/js/2.56431253.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.99b5ce48.js",
     "static/css/2.a2032d84.chunk.css",
     "static/js/2.56431253.chunk.js",
-    "static/css/main.09df23f9.chunk.css",
-    "static/js/main.f13a1b23.chunk.js"
+    "static/css/main.027bd749.chunk.css",
+    "static/js/main.0609dc1a.chunk.js"
   ]
 }
