@@ -36,12 +36,12 @@ const ReadSpeakerReader = () => {
 
                     <ReactQuill theme="snow" value={value} onChange={setValue} />
 
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
                 </Container>
             </section>
 
             <section className="readspeaker-button-section mt-3 mb-2" id="readspeakerContainerSecond">
-
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
                 <Container>
 
@@ -53,6 +53,8 @@ const ReadSpeakerReader = () => {
                     </div>
 
                     <ReactQuill theme="snow" value={valueSecond} onChange={setValueSecond} />
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
                 </Container>
             </section>
