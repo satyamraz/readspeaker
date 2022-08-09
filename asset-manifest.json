@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/readspeaker/static/css/main.09df23f9.chunk.css",
-    "main.js": "/readspeaker/static/js/main.d0cd6471.chunk.js",
-    "main.js.map": "/readspeaker/static/js/main.d0cd6471.chunk.js.map",
+    "main.js": "/readspeaker/static/js/main.f13a1b23.chunk.js",
+    "main.js.map": "/readspeaker/static/js/main.f13a1b23.chunk.js.map",
     "runtime-main.js": "/readspeaker/static/js/runtime-main.99b5ce48.js",
     "runtime-main.js.map": "/readspeaker/static/js/runtime-main.99b5ce48.js.map",
     "static/css/2.a2032d84.chunk.css": "/readspeaker/static/css/2.a2032d84.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.a2032d84.chunk.css",
     "static/js/2.56431253.chunk.js",
     "static/css/main.09df23f9.chunk.css",
-    "static/js/main.d0cd6471.chunk.js"
+    "static/js/main.f13a1b23.chunk.js"
   ]
 }
