@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-section#readspeakerContainer {
+section.readspeaker-button-section {
   margin: 4em 1em;
 }
 
